@@ -1,2 +1,2 @@
 # gcf-test
-Triggering Webhook post to GCP
+Triggering Webhook post to GCP integrated with Slack.
